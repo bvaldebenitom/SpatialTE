@@ -6,10 +6,10 @@ SpatialTE README
 
 SpatialTE requires the following tools to be installed:
 
-ST Pipeline v1.7.9 (https://github.com/SpatialTranscriptomicsResearch/st_pipeline)
-Samtools v1.11 (http://www.htslib.org/download/)
-BEDTools v2.29.2 (https://github.com/arq5x/bedtools2/releases)
-R v4 or higher (https://www.r-project.org/)
+- ST Pipeline v1.7.9 (https://github.com/SpatialTranscriptomicsResearch/st_pipeline)
+- Samtools v1.11 (http://www.htslib.org/download/)
+- BEDTools v2.29.2 (https://github.com/arq5x/bedtools2/releases)
+- R v4 or higher (https://www.r-project.org/)
 
 Also, Python3.8 or higher should be available in your computer.
 
