@@ -1,0 +1,10 @@
+name: SpatialTE
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - samtools=1.11
+  - bedtools=2.29.2
+  - r=4.0.0
